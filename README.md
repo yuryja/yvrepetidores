@@ -1,4 +1,4 @@
-# yvrepetidores
+# YV Repetidores
 Listado de repetidores para radioaficionados en Venezuela
 El objetivo es crear un directorio actualizable de todos los repetidores
 en el pais para el uso de la radioaficion. 
