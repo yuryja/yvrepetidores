@@ -7,7 +7,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 6,C TOVAR,147.060000,+,0.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,Colonia Tovar Geremba,,,,
 7,GUATIRE,147.060000,+,0.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,Guatire,,,,
 8,C AVILA,147.150000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,Cerro Ávila Norte La Guaira,,,,
-9,EL CAFE,147.180000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,YV4KW/ Valencia, Cerro El Café,,,,
+9,EL CAFE,147.180000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,YV4KW/Valencia Cerro El Café,,,,
 10,CHORONI,147.210000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,Mirador vía Choroní RCV,,,,
 11,ESTANDA,147.240000,+,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,La estadandar,,,,
 12,ORIPOTO,147.270000,+,0.600000,Tone,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,4.0W,Oripoto Sur Este de Caracas,,,,
