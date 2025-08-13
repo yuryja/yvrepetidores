@@ -1,0 +1,84 @@
+Nombre,Banda,Frecuencia,Offset/Split,Tono,Modo,Tipo,Observaci+APM-n,Circuito,Estado,Ciudad
+Anzo+AOE-tegui 01,VHF,146850,+AC0-600,88.5,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 02,VHF,146700,+AC0-600,,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 03,VHF,146880,+AC0-600,,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 04,VHF,147390,600,88.5,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 05,UHF,439950,+AC0-5000,,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 06,VHF,51800,600,88.5,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 07,VHF,147030,600,88.5,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 08,VHF,146910,+AC0-600,,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 09,UHF,439850,+AC0-5000,,Duplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 10,VHF,147570,,88.5,Simplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Anzo+AOE-tegui 11,UHF,433100,,,Simplex,FM,,6,Anzo+AOE-tegui,Puerto La Cruz
+Apure 1,VHF,146940,+AC0-600,88.5,Duplex,FM,,9,Apure,San Fernando de Apure
+Apure 2,VHF,147150,600,88.5,Duplex,FM,,9,Apure,San Fernando de Apure
+Aragua 1,VHF,147210,600,88.5,Duplex,FM,,4,Aragua,Maracay
+Aragua 2,UHF,439920,+AC0-5000,88.5,Duplex,FM,,4,Aragua,Maracay
+Aragua 3,VHF,146790,+AC0-600,88.5,Duplex,FM,,4,Aragua,Maracay
+Aragua 4,VHF,146610,+AC0-600,88.5,Duplex,FM,Echolink,4,Aragua,Maracay
+Carabobo 1,VHF,146970,+AC0-600,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 2,VHF,146820,+AC0-600,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 3,VHF,146850,+AC0-600,,Duplex,FM,DMR,4,Carabobo,Valencia
+Carabobo 4,VHF,147180,600,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 5,VHF,147240,600,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 6,UHF,439625,+AC0-5000,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 7,UHF,434975,+AC0-5000,88.5,Duplex,FM,,4,Carabobo,Valencia
+Carabobo 8,VHF,147180,+600-,88.5,Duplex,FM,Echolink/Link Nacional,4,Carabobo,Valencia
+Carabobo 9,UHF,439950,+AC0-5000,88.5,Duplex,FM,,4,Carabobo,Valencia
+Caracas 01,VHF,146640,+AC0-600,,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 02,VHF,146670,+AC0-600,,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 03,VHF,147360,600,88.5,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 04,VHF,147030,600,,Duplex,FM,Echolink,5,Distrito Capital,Caracas
+Caracas 05,VHF,147240,600,,Duplex,FM,DMR,5,Distrito Capital,Caracas
+Caracas 06,VHF,147270,600,88.5,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 07,VHF,147390,600,,Duplex,FM,DMR,5,Distrito Capital,Caracas
+Caracas 08,UHF,430600,5000,,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 09,UHF,439600,+AC0-5000,67,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 10,UHF,437330,+AC0-5000,88.5,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 11,VHF,220800,1600,88.5,Duplex,FM,,5,Distrito Capital,Caracas
+Caracas 12,UHF,439500,+AC0-5000,88.5,Duplex,FM,Link Nacional,5,Distrito Capital,Caracas
+Delta Amacuro 1,VHF,147060,600,77,Duplex,FM,,8,Delta Amacuro,Tucupita
+Falc+APM-n 1,VHF,147120,600,,Duplex,FM,,1,Falc+APM-n,Coro
+Falc+APM-n 2,VHF,147360,600,,Duplex,FM,,1,Falc+APM-n,Coro
+Falc+APM-n 3,VHF,146850,+AC0-600,88.5,Duplex,FM,,1,Falc+APM-n,Coro
+Falc+APM-n 4,VHF,147090,600,100,Duplex,FM,,1,Falc+APM-n,Coro
+Falc+APM-n 5,VHF,144275,,,Simplex,FM,,1,Falc+APM-n,Coro
+Gu+AOE-rico,UHF,449975,,,Simplex,FM,Link Nacional,5,Gu+AOE-rico,Valle de La Pascua
+Gu+AOE-rico 1,UHF,449975,,,Duplex,FM,,5,Gu+AOE-rico,Valle de La Pascua
+La Guaira,VHF,147150,600,,Duplex,FM,,5,La Guaira,La Guaira
+Lara 2,VHF,146880,+AC0-605,,Duplex,FM,,3,Lara,Barquisimeto
+Miranda 1,VHF,147120,600,,Duplex,FM,,5,Miranda,Los Teques
+Miranda 2,VHF,146730,+AC0-600,88.5,Duplex,FM,,5,Miranda,Los Teques
+Miranda 3,VHF,147090,600,88.5,Duplex,FM,,5,Miranda,Los Teques
+Miranda 4,UHF,438125,+AC0-5000,88.5,Duplex,FM,,5,Miranda,Los Teques
+M+AOk-rida 1,VHF,147060,600,88.5,Duplex,FM,,2,M+AOk-rida,M+AOk-rida
+M+AOk-rida 2,UHF,439950,+AC0-5000,88.5,Duplex,FM,,2,M+AOk-rida,M+AOk-rida
+M+AOk-rida 4,VHF,147270,600,,Duplex,FM,,2,M+AOk-rida,M+AOk-rida
+M+AOk-rida 5,VHF,146940,+AC0-600,,Duplex,FM,,2,M+AOk-rida,M+AOk-rida
+Nueva Esparta 1,VHF,146820,+AC0-600,100,Duplex,FM,,7,Nueva Esparta,Porlamar
+Portuguesa 1,VHF,147120,600,,Duplex,FM,,3,Portuguesa,Acarigua
+Portuguesa 2,VHF,146580,,,Simplex,FM,Echolink,3,Portuguesa,Acarigua
+Sucre 1,VHF,146940,+AC0-600,+AC0-600,Duplex,FM,Link Nacional,7,Sucre,Cuman+AOE-
+Sucre 2,VHF,146790,+AC0-600,100,Duplex,FM,,7,Sucre,Cuman+AOE-
+Sucre 3,VHF,147150,600,,Duplex,FM,,7,Sucre,Cuman+AOE-
+Trujillo 1,VHF,147150,600,,Duplex,FM,,2,Trujillo,Valera
+Trujillo 2,VHF,147390,600,88.5,Duplex,FM,,2,Trujillo,Valera
+Trujillo 3,VHF,146850,+AC0-600,88.5,Duplex,FM,,2,Trujillo,Valera
+Trujillo 4,VHF,146940,+AC0-600,88.5,Duplex,FM,Link Nacional,2,Trujillo,Valera
+Trujillo 5,VHF,147300,600,88.5,Duplex,FM,,2,Trujillo,Valera
+T+AOE-chira 01,VHF,146760,+AC0-600,,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 02,VHF,147330,600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 03,VHF,147120,600,,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 04,VHF,147210,600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 05,VHF,146700,+AC0-600,,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 06,VHF,146730,+AC0-600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 07,VHF,146610,+AC0-600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 08,VHF,146880,+AC0-600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 09,VHF,146790,+AC0-600,88.5,Duplex,FM,,2,T+AOE-chira,San Crist+APM-bal
+T+AOE-chira 10,VHF,146940,+AC0-600,88.5,Duplex,FM,Link Nacional,2,T+AOE-chira,San Crist+APM-bal
+Yaracuy 1,VHF,146730,+AC0-600,,Duplex,FM,,3,Yaracuy,San Felipe
+Yaracuy 2,VHF,147150,600,88.5,Duplex,FM,,3,Yaracuy,San Felipe
+Yaracuy 3,VHF,147300,600,,Duplex,FM,Link Nacional,3,Yaracuy,San Felipe
+Zulia 1,VHF,146700,+AC0-600,88.5,Duplex,FM,,1,Zulia,Maracaibo
+Zulia 2,UHF,439975,+AC0-5000,88.5,Duplex,FM,,1,Zulia,Maracaibo
+Zulia 3,VHF,147360,600,88.5,Duplex,FM,,1,Zulia,Ciudad Ojeda
